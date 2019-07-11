@@ -3,6 +3,10 @@ The updated version (July 2019) of the exercise project of the course "Spring Cl
 
 The original version of the exercises was done with SpringBoot **1.5** using Spring Cloud **Dalston** release. Now it has been updated to SpringBoot **2.1** using Spring Cloud **Greenwich** release.
 
+# Import project in IntelliJ IDEA
+
+Just import it as a *Maven* project being sure of marking the option "Search for projects recursively".
+
 # Notable changes
 
 ## Maven dependencies
